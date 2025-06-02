@@ -11,9 +11,6 @@
 3. [How to Play](#how-to-play)  
 4. [Download and Installation](#download-and-installation)  
 5. [QR Code](#qr-code)  
-6. [Project Structure](#project-structure)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
 
 ---
 
@@ -98,7 +95,8 @@ To run **Snuck It In** on your device, follow these steps:
 
 Scan this QR code in **Expo Go** to download and play **Snuck It In** immediately:
 
-![Snuck It In QR Code](./downloads/snuckitinqrcode.png)
+![snuckitinqrcode](https://github.com/user-attachments/assets/91403104-9cee-4607-9f28-0101cde47a2d)
+
 
 
 
